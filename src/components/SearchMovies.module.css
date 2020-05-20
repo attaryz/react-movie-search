@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Biryani:wght@300&family=Orienta&family=Passion+One:wght@700&display=swap');
+
 .form{
     display: grid;
 }
@@ -5,6 +7,7 @@
     font-size: 1.2rem;
     margin-bottom: 0.2rem;
     text-transform: uppercase;
+    font-family: 'Orienta', sans-serif;
 }
 .input{
     font-size: 1.6rem;
@@ -13,9 +16,10 @@
     border-radius: 20px;
     border: 1px solid #ddd;
     margin-bottom: 1rem;
+    font-family: 'Orienta', sans-serif;
 }
 .button {
-    background-color: rgba(0,0,0,0.75);
+    background-color: #1e2022;
     color: white;
     padding: 1rem 2rem;
     border: 1px solid rgba(0,0,0,0.75);
@@ -23,10 +27,11 @@
     font-size: 1.4rem;
     cursor: pointer;
     transition: background-color 250ms;
+    font-family: 'Orienta', sans-serif;
 }
 
 .button:hover {
-    background-color: rgba(0,0,0,0.85);
+    background-color: #ff5722;
 }
 
 .cardList {

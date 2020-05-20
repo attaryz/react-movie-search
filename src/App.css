@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Biryani:wght@300&family=Orienta&family=Passion+One:wght@700&display=swap');
 html {
     font-size: 10px;
 }
@@ -9,25 +12,20 @@ html {
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(244,244,244);
-    color: #333;
+    background-color:#c9d6df;
+    color:#ff5722;
 }
 
-p {
-    font-size: 1.6rem;
-}
-
-small {
-    font-size: 1.2rem;
-}
 
 .container {
     margin: 0 auto;
     max-width:1000px;
     padding: 40px;
+    background-color: #c9d6df;
 }
 
 .title {
     font-size: 4.4rem;
-    text-align: center
+    text-align: center;
+   font-family: 'Passion One', cursive;
 }
